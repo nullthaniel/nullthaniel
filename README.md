@@ -10,6 +10,7 @@ I might not use all of them, but these are my social accounts:
 - Instagram
 - YouTube
 - GitHub
+- Tumblr
 
 <!---
 nullthaniel/nullthaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
